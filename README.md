@@ -10,3 +10,6 @@
 8.Spring-Boot多数据源实现分布式事务 https://github.com/kobeyk/spring-boot-atomikos
 9.springboot代码生成器 https://github.com/moshowgame/SpringBootCodeGenerator
 10.LeetCode https://github.com/yuanguangxin/LeetCode
+
+
+商城:https://github.com/macrozheng/mall
